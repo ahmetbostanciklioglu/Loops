@@ -2,7 +2,7 @@
 For and While loops
 
 
-**For Loop**
+**For Loop:**
 ```
 let forLoops = 9...15
 for index in forLoops {
@@ -23,7 +23,7 @@ for index3 in [2, 3 , 5, 9] {
 }
 ```
 
-**While loop**
+**While Loop:**
 ```
 var index4 = 17
 while index4 <= 21 {
@@ -32,7 +32,7 @@ while index4 <= 21 {
 }
 ```
 
-**Repeat loops**
+**Repeat Loop:**
 ```
 var repeatLoops = true
 repeat {
